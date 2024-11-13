@@ -1,0 +1,14 @@
+body{
+    padding: 10px;
+}
+.container-fluid{
+    background-color: lightblue;
+}
+.imgg{
+    height:13%;
+}
+.container-md{
+    background-color: lightblue;
+    text-align: center;
+    color: grey;
+}
